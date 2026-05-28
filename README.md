@@ -8,7 +8,7 @@
 ##  Project Photos
 
 ###  Hardware Setup
-This shows the ESP32, LiPo battery, button connection, and basic breadboard layout
+This shows the ESP32, LiPo battery, button connection, and basic breadboard layout.
 
 ![Hardware Setup](images/hardware_setup.jpg)
 
